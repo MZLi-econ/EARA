@@ -14,7 +14,7 @@
 >
 > **Version**: June 25, 2025
 >
-> **Link to Paper**: [Link to your SSRN, ArXiv, or personal website]
+> **Link to Paper**: [https://ssrn.com/abstract=5303434]
 
 ## Core Economic Mechanism
 
